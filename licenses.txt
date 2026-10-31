@@ -3,7 +3,7 @@
        Licensed under the
        Apache License 2.0
 
-• Material 3 Expressive
+• Material Components v1.14.0
        Copyright Google LLC
        Licensed under the
        Apache License 2.0
@@ -32,3 +32,18 @@
        Licensed under the
        SIL Open Font License
        1.1
+       
+• AndroidX Core
+       Copyright Google LLC
+       Licensed under the
+       Apache License 2.0
+
+• AndroidX Activity
+       Copyright Google LLC
+       Licensed under the
+       Apache License 2.0
+
+• AndroidX RecyclerView
+       Copyright Google LLC
+       Licensed under the
+       Apache License 2.0
