@@ -1,40 +1,51 @@
 M3 Browser respects your privacy.
 
-Data Collection
-M3 Browser does not collect, store, or share your personal data on servers operated by the M3 Browser project.
+1. Data Collection
+M3 Browser does not operate servers that collect or store users' browsing activity or personal information.
 
-When you visit websites, your browser may send information to those websites as necessary to load and use their content. This may include your IP address, cookies, browser information, and other data requested by the website.
+When you visit websites, those websites may receive information necessary to provide their services, including your IP address, browser information, cookies, and other technical data.
 
-Permissions
-The app may request access to the following features:
+2. Permissions
+M3 Browser may request access to the following device features:
 
-• Camera – for websites that require camera access.
-• Microphone – for websites that require microphone access.
-• Location – for websites that require location services.
-• Files and media – for file downloads, uploads, and file selection.
+• Camera: For websites that require camera access.
+• Microphone: For websites that require microphone access.
+• Location: For websites that request location services.
+• Files and media: For downloading, uploading, and selecting files.
 
-These permissions are used only when required by the browser or by a website feature you choose to use.
+These permissions are used to provide browser functionality and are subject to your approval.
 
-Local Data
-M3 Browser stores certain information locally on your device, which may include:
+3. Local Data Storage
+M3 Browser may store information locally on your device, including:
 
-• Homepage and search engine preferences.
-• Browser settings.
-• Cookies and website data.
-• Web storage and other data created by websites.
-• Browsing history and cached content, depending on your settings and usage.
+- Homepage and search engine preferences.
+- Browser settings.
+- Cookies and website data.
+- Web storage created by websites.
+- Browsing history and cached content.
 
-This locally stored browser data is not collected or uploaded to servers operated by the M3 Browser project.
+This information remains on your device and is not uploaded to servers operated by the M3 Browser project.
 
-Third-Party Websites
-M3 Browser allows you to access third-party websites. Those websites may collect, store, or process information according to their own privacy policies and terms.
+You can manage or clear locally stored browser data through the available browser settings.
 
-M3 Browser does not control the privacy practices or data collection policies of third-party websites.
+4. Third-Party Websites
+M3 Browser provides access to third-party websites and services.
 
-Updates and Diagnostics
-M3 Browser may provide features such as update checking. Such features may communicate with external services when you explicitly use them or when required to provide the requested functionality.
+These websites may independently collect, store, or process information according to their own privacy policies and terms.
 
-Contact
-If you have any questions about this Privacy Policy, would like to report a bug, or want to request a new feature, please visit the GitHub Issues page:
+M3 Browser does not control or assume responsibility for the privacy practices of third-party services.
+
+5. Updates and Diagnostics
+M3 Browser may communicate with external services to check for application updates or provide requested functionality.
+
+For example, update checks may retrieve version information from the project's GitHub repository.
+
+6. Changes to This Policy
+This Privacy Policy may be updated as M3 Browser evolves. Changes will be published through the project's documentation repository.
+
+7. Contact
+For questions, bug reports, or feature requests, visit the official GitHub Issues page:
 
 https://github.com/TheuXs08/M3-Browser/issues
+
+Last updated: October 31, 2026
