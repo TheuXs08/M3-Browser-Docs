@@ -1,5 +1,3 @@
-## Documentation for M3 Browser.
-
 ## Documentation
 - [Settings](settings.txt)
 - [Privacy Policy](privacy.txt)
