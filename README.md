@@ -4,4 +4,4 @@
 - [Licenses](licenses.txt)
 
 ## Project
-M3 Browser is an Android web browser focused on a modern Material 3 interface.  [GitHub Repository](https://github.com/TheuXs08/M3-Browser)
+M3 Browser is an Android web browser focused on a modern Material 3 interface.  [Main Repository](https://github.com/TheuXs08/M3-Browser)
