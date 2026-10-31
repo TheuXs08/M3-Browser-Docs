@@ -18,11 +18,11 @@ These permissions are used to provide browser functionality and are subject to y
 3. Local Data Storage
 M3 Browser may store information locally on your device, including:
 
-- Homepage and search engine preferences.
-- Browser settings.
-- Cookies and website data.
-- Web storage created by websites.
-- Browsing history and cached content.
+• Homepage and search engine preferences.
+• Browser settings.
+• Cookies and website data.
+• Web storage created by websites.
+• Browsing history and cached content.
 
 This information remains on your device and is not uploaded to servers operated by the M3 Browser project.
 
